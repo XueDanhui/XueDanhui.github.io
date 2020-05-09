@@ -917,7 +917,7 @@ pre .javascript .function {
   position: relative;
 }
 .container .main {
-  min-height: calc(100% - 83px - 68px);
+  min-height: calc(100vh - 83px - 68px);
 }
 .main-inner {
   margin: 0 auto;
@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffff3c;
+  background: #365d17;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
